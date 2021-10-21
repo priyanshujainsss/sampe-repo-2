@@ -1,0 +1,22 @@
+.maindiv{
+    display: flex;
+    flex-direction: column;
+    max-height: fit-content;
+    max-width: 500px;
+
+}
+
+input{
+    height: 50px;
+    margin: 15px 10px;
+    border: none;
+    font-size: 18px;
+    max-width: 500px;
+    padding: 5px 19px;
+}
+button{
+    width: 100px;
+    font-size: 24px;
+    background:blanchedalmond;
+   margin-left: 16%;
+}
